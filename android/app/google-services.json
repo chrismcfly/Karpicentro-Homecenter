@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380755198824",
+    "project_id": "karpicentrobd",
+    "storage_bucket": "karpicentrobd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380755198824:android:975056bfade87db9804cdd",
+        "android_client_info": {
+          "package_name": "com.karpicentro.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380755198824-i72udj598n5meqojk2ogu8ilcqt9160r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOgSDqGiGpNRWQ0fUrLnyz3nwi0_ND7xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380755198824-i72udj598n5meqojk2ogu8ilcqt9160r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
